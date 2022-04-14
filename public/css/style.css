@@ -7,3 +7,10 @@ p{
     margin-top:50px ;
     text-align: center;
 }
+.btn-float{
+    float: left;
+    margin-right: 10px;
+}
+.img-small{
+    width: 180px;
+}
